@@ -1,0 +1,10 @@
+ipykernel
+pandas
+numpy==1.23.1
+scikit-learn==1.1.1
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+python-multipart
